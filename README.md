@@ -66,8 +66,8 @@ I enjoy building **scalable backend systems, AI-powered applications, and real-t
 ---
 
 ## 🎯 Hackathons & Highlights
-- 🏆 Finalist – **Smart India Hackathon 2024** (*Emission Niyantran* – AI-based carbon emission prediction system).  
-- 💡 Participant – **DoseHack’24** (Healthcare Hackathon with MediTab, CHARUSAT).  
+- 🏆 Participant – **Smart India Hackathon 2024** (*Emission Niyantran* – AI-based carbon emission prediction system).  
+- 💡 Finalist – **DoseHack’24** (Healthcare Hackathon with MediTab, CHARUSAT).  
 - 🌐 Participant – **Web Development Hackathon** (Sheryians Coding School, 2024).  
 
 ---
